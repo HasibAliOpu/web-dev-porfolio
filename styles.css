@@ -7,6 +7,13 @@
   font-variation-settings: "wdth" 100;
 }
 
+/* Shared Styles */
+.text-primary {
+  color: #fd6e0a;
+}
+
+/* Nav styles */
+
 nav {
   display: flex;
 }
