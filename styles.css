@@ -41,6 +41,19 @@
   padding: 18px 36px;
   font-weight: 700;
 }
+/* about me info shared class */
+.item {
+  line-height: 50%;
+}
+.item-title {
+  color: #757575;
+}
+
+.item-discription {
+  color: #474747;
+  font-weight: bold;
+}
+
 /* header styles */
 
 #header {
@@ -111,4 +124,9 @@ main {
   background-color: #ffffff;
   border: solid 1px;
   padding: 5px;
+}
+
+.about-items {
+  display: flex;
+  justify-content: space-around;
 }
